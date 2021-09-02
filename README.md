@@ -1,4 +1,4 @@
-We are JalamantaLabs,
+We are Jalamanta Labs,
 
 A two person mobile company creating bespoke iOS Apps and the occasional Android (Jetpack Compose) App.
 
